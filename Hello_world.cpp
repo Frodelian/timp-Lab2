@@ -1,4 +1,3 @@
-edit "Hello_world.cpp"
 #include <iostream>
 #include <string>
  
